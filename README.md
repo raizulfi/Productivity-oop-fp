@@ -1,5 +1,9 @@
 # Productivity-oop-fp
 
 
-## uml diagram
-![image](https://github.com/raizulfi/Productivity-oop-fp/assets/114371959/9ed3d6b7-2016-45a5-833f-04be60065fbe)
+## UML diagram
+with dependencies:
+![image](https://github.com/raizulfi/onTrack-oop-fp/assets/114371959/113770b7-4481-4286-9c25-a97480390c06)
+
+without dependencies:
+![image](https://github.com/raizulfi/onTrack-oop-fp/assets/114371959/fe909388-d2e3-408a-8afc-15bf6494e4a3)
