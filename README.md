@@ -1,4 +1,6 @@
-# Productivity-oop-fp
+# OnTrack 📜✔
+
+onTrack is a ToDo List application that allows users to manage their activities. The project makes use of object-oriented programming concepts including inheritance, polymorphism, and interfaces.
 
 
 ## UML diagram
