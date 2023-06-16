@@ -11,4 +11,4 @@ without dependencies:
 ![image](https://github.com/raizulfi/onTrack-oop-fp/assets/114371959/fe909388-d2e3-408a-8afc-15bf6494e4a3)
 
 ## Documentation
-- [Report](https://docs.google.com/document/d/1qiOhd1ZdMFeRfoyK5xRm4yRZPpwea36bqPy962qt4Z4/edit?usp=sharing)
+- [Final Report](https://docs.google.com/document/d/1qiOhd1ZdMFeRfoyK5xRm4yRZPpwea36bqPy962qt4Z4/edit?usp=sharing)
